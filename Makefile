@@ -1,5 +1,5 @@
 #GO11MODULES=on
-APP?=project-abc
+APP?=calculator
 REGISTRY?=gcr.io/images
 VER?=0.0.1
 COMMIT_SHA=$(shell git rev-parse --short HEAD)

@@ -1,4 +1,4 @@
-module project-abc
+module github.com/datewu/calculator
 
 go 1.14
 
